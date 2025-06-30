@@ -1,2 +1,17 @@
-# Optimizing-Revenue-Leakage-Profitability-in-the-Hospitality-Sector
-SQL and dashboard-based project to reduce revenue leakage in hospitality sector under Summer Projects ’25
+# Hospitality Revenue Optimization – Summer Projects ’25
+
+This project focuses on identifying revenue leakage and improving profitability in the hospitality sector using cancellation trend analysis, RevPAR data, and occupancy insights.
+
+## Deliverables
+- 📄 Final report (PDF)
+- 📊 Presentation slides
+- 📈 Dashboards (insights with cancellation rate, occupancy, platform performance)
+- 📁 Dataset samples (optional)
+
+## Key Insights
+- High cancellation rate in RT1 (~40%)
+- Weekday bookings outperform weekends
+- RevPAR improvement through dynamic pricing and bundling
+
+## Tools Used
+- Excel, Tableau, PowerPoint
